@@ -141,11 +141,7 @@ Active hunter across HackerOne, Bugcrowd, and YesWeHack — access control, busi
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <sub>Animates automatically once the Snake Action workflow below is added to this repo.</sub>
 
