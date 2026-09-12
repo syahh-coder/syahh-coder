@@ -131,7 +131,7 @@ Active hunter across HackerOne, Bugcrowd, and YesWeHack — access control, busi
 <img src="https://github-readme-stats.vercel.app/api?username=syahh-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahh-coder&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syahh-coder&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=syahh-coder&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -141,7 +141,11 @@ Active hunter across HackerOne, Bugcrowd, and YesWeHack — access control, busi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/syahh-coder/syahh-coder/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 <sub>Animates automatically once the Snake Action workflow below is added to this repo.</sub>
 
