@@ -131,8 +131,6 @@ Active hunter across HackerOne, Bugcrowd, and YesWeHack — access control, busi
 <img src="https://github-readme-stats-woad-omega-99.vercel.app/api?username=syahh-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats-woad-omega-99.vercel.app/api/top-langs/?username=syahh-coder&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=syahh-coder&theme=tokyonight&hide_border=true" width="70%"/>
-
 </div>
 
 ---
